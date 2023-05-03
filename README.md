@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adwaith K</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at : [adwaith.netlify.app](https://adwaith.netlify.app)
+- 👨‍💻 All of my projects are available at : [adwaith.netlify.app](https://adwaith33.netlify.app)
 
 - 📫 How to reach me : **adwaith.k8055@gmail.com**
 
