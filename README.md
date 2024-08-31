@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at : [adwaith33.netlify.app](https://adwaith33.netlify.app)
 
-- 📫 How to reach me : **adwaith.k8055@gmail.com**
+- 📫 How to reach me : **adwaith.web@gmail.com**
 
 
 
